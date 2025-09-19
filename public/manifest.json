@@ -1,0 +1,18 @@
+{
+    "theme_color": "#000000",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "Estoque Veículos",
+    "short_name": "Estoque Veículos",
+    "description": "Aplicativo para gerência de estoque de veículos",
+    "orientation": "any",
+    "icons": [
+      {
+        "src": "/icon512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
